@@ -9,7 +9,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://gaurav-thorat.github.io" target="_blank"><img src="preview.png">
+    <a href="https://gaurav-thorat.github.io" target="_blank"><img src="Homepage.png">
   </a>
   </kbd>
 </p>
